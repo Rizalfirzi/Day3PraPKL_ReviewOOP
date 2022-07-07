@@ -7,6 +7,7 @@
     <title>paragraf</title>
 </head>
 <body>
+    <h2>sayang kamu</h2>
     <p>saya adalah ultramen</p>
 </body>
 </html>
