@@ -41,7 +41,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                Edit guru
+                Edit data
             </div>
             <div class="card-body">
             <?php
